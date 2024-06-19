@@ -3,3 +3,4 @@ __pycache__
 
 # Ignore Streamlit secrets
 .streamlit/pages.toml
+README.md
