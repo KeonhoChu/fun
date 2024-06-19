@@ -3,8 +3,5 @@ path = "app.py"
 name = "Home"
 
 
-[openai]
-api_key = "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"
-
 
 

@@ -2,5 +2,4 @@ venv
 __pycache__
 
 # Ignore Streamlit secrets
-.streamlit/pages.toml
-README.md
+.streamlit/secrets.toml
